@@ -1,0 +1,18 @@
+Apa Itu Python? Penjelasan untuk Orang Awam
+Python adalah bahasa pemrograman yang digunakan untuk memberikan perintah kepada komputer agar komputer dapat melakukan pekerjaan secara otomatis.
+
+Bayangkan komputer adalah seorang karyawan, sedangkan kita adalah atasannya. Agar karyawan tersebut tahu apa yang harus dikerjakan, kita harus memberikan instruksi.
+
+Nah, Python adalah bahasa yang kita gunakan untuk memberikan instruksi kepada komputer tersebut.
+1. Contoh Python dalam kehidupan sehari-hari
+Misalnya kita mempunyai sebuah toko yang menjual barang.
+
+Setiap hari kita harus menghitung total harga belanja pelanggan.
+
+Contohnya:
+- Harga buku: Rp20.000
+- Harga pensil: Rp5.000
+- Total belanja: Rp25.000
+Jika dihitung manual, kita menggunakan kalkulator.
+
+Namun, dengan Python, kita bisa meminta komputer menghitungnya secara otomatis.
