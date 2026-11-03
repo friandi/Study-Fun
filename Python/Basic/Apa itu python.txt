@@ -16,3 +16,24 @@ Contohnya:
 Jika dihitung manual, kita menggunakan kalkulator.
 
 Namun, dengan Python, kita bisa meminta komputer menghitungnya secara otomatis.
+
+contoh 
+harga_buku = 20000
+harga_pensil = 5000
+
+total = harga_buku + harga_pensil
+
+print(total)
+
+
+Hasilnya keluar 25000
+
+Artinya, kita telah memberikan instruksi kepada komputer untuk menjumlahkan harga buku dan pensil.
+
+Bagaimana cara Python bekerja?
+
+Manusia
+
+Menentukan pekerjaan yang ingin dilakukan
+
+Menulis instruksi
